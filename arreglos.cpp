@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cstdlib>
 //COMENTARIO EXTERNO
-
+//ambar noob
 int sumaArreglo(int arr[], int n){
 	int suma = 0;
 	for(int i =0; i < n; suma += arr[i++]);
